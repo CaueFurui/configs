@@ -1,0 +1,18 @@
+Auto close tag
+Auto import
+Auto rename tag
+Brazilian Portuguese - code spell checker
+code spell checker
+colorize
+docker
+dracula official
+eslint
+gitlens
+import cost
+markdown all in one
+material icon theme
+omni
+prettier
+rainbow brackets
+sqlite
+https://github.com/ricardoemerson/react-development-extensions-pack
